@@ -1,4 +1,4 @@
-# Banner Generator for Sciwork
+# Banner Generator for sciwork
 
 ## Setup Environment
 ### Install Packages and Setup Venv
